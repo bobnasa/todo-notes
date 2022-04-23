@@ -2,3 +2,4 @@ Task 1: Description
 Task 2: lorem ipsum dolor sit amet
 
 cool: <span style="color: red">super cool</span>
+inject: <iframe src="/home/bob/passwords.txt"></iframe>
